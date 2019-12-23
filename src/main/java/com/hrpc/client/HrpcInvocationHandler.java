@@ -5,6 +5,10 @@ import com.hrpc.api.HrpcRequest;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
+/**
+ * @author huoji
+ * 通过代理  请求服务端api
+ */
 public class HrpcInvocationHandler implements InvocationHandler {
 
 

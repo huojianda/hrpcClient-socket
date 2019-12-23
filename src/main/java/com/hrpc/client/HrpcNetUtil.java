@@ -7,6 +7,10 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.net.Socket;
 
+/**
+ * @author huoji
+ * socket 请求服务端
+ */
 public class HrpcNetUtil {
 
     private String host;
